@@ -1,5 +1,5 @@
 
-  ## **Hey, I'm Yishaq 🙏🏽**
+   ## **Hey, I'm Yishaq 🙏🏽**
   ---
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yishaqwol/">
@@ -11,10 +11,8 @@
   <img src="https://miro.medium.com/max/1200/0*S1FPUC4md0ckaKoj" width="600" height="300"/>
 </div>
   
-  :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Washington-DC area.
-
-
+  :man_technologist: About Me : <br/>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Washington-DC area. <br/>
 🔭 I’m currently working with Per Scholas ...<br/>
 🌱 I’m currently learning JavaScript, React, and MongoDB... <br/>
 👯 I’m looking to collaborate on fully-responsive projects ...<br/>
