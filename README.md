@@ -1,11 +1,11 @@
-<div align="center">
+
   ## **Hey, I'm Yishaq 🙏🏽**
-  </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yishaqwol/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=YishaqW&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=YishaqW&style=flat-square&color=blue" alt="" align="center"/>
 <div>
   <div align="center">
   <img src="https://miro.medium.com/max/1200/0*S1FPUC4md0ckaKoj" width="600" height="300"/>
