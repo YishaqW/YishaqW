@@ -8,7 +8,7 @@
 <div>
   Come'on in 🙏🏽
 </div>
-<img src="https://giphy.com/embed/7J4P7cUur2DlErijp3" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen>/><p><a href="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3">via GIPHY</a></p>
+<img src="https://giphy.com/embed/7J4P7cUur2DlErijp3" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3">via GIPHY</a></p>
   :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Washington-DC area.
 
