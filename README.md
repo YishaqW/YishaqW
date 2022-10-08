@@ -6,7 +6,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=YishaqW&style=flat-square&color=blue" alt=""/>
 <div>
-  Come'on in 🙏🏽
+  Hey, I'm Yishaq 🙏🏽
   <div align="center">
   <img src="https://miro.medium.com/max/1200/0*S1FPUC4md0ckaKoj" width="600" height="300"/>
 </div>
