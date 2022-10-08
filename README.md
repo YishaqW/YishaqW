@@ -8,7 +8,7 @@
 <div>
   Come'on in 🙏🏽
   <div align="center">
-  <img src="https://giphy.com/gifs/vintage-computer-old-l1J9qemh1La8b0Rag" width="600" height="300"/>
+  <img src="https://miro.medium.com/max/1200/0*S1FPUC4md0ckaKoj" width="600" height="300"/>
 </div>
   
   :man_technologist: About Me :
