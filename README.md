@@ -8,7 +8,7 @@
 <div>
   Come'on in 🙏🏽
 </div>
-<iframe src="https://giphy.com/embed/l1J9qemh1La8b0Rag" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vintage-computer-old-l1J9qemh1La8b0Rag">via GIPHY</a></p>
+<img src="https://giphy.com/embed/l1J9qemh1La8b0Rag" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/><p><a href="https://giphy.com/gifs/vintage-computer-old-l1J9qemh1La8b0Rag">via GIPHY</a></p>
   :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Washington-DC area.
 
