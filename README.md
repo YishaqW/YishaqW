@@ -2,8 +2,6 @@
    ## **Hey, I'm Yishaq 🙏🏽**
   ---
   <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yishaqwol/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     <br/>
 <div>
   <div align="center">
