@@ -10,10 +10,10 @@
   
   :man_technologist: About Me : <br/>
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Washington-DC area. <br/>
-🔭 I’m currently working with Per Scholas ...<br/>
-🌱 I’m currently learning JavaScript, React, and MongoDB... <br/>
-👯 I’m looking to collaborate on fully-responsive projects ...<br/>
-🤔 I’m looking for help with anamations and Java! ...<br/>
+🔭 I’m currently working with SummitWorks Technologies...<br/>
+🌱 I’m currently learning C#, Angular, and SQL... <br/>
+👯 I’m looking to join on a good-hearted team...<br/>
+🤔 I’m looking for help with personal projects! ...<br/>
 💬 Ask me about anything!... <br/>
 📫 How to reach me: yishaq6@gmail.com <br/>
   
